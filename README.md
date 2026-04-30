@@ -32,7 +32,7 @@ Os documentos estão organizados na pasta `docs/`:
 - [🖼️ Ver Fluxo de Trabalho](assets/fluxo-trabalho.jpeg)
 - [🖼️ Ver User Stories](assets/user-stories.jpeg)
 - [🖼️ Ver Testes](assets/testes.jpeg)
-- [🖼️ Ver Mindmap](assets/mindmap-login.jpeg)
+- [🖼️ Ver Mindmap](assets/mindmap-login.png)
 
 ---
 ## 📥 Download dos Documentos
