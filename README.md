@@ -1,6 +1,6 @@
 # 🧪 QA Test Challenge - Documentação de Testes
 
-Este repositório apresenta a documentação desenvolvida durante um desafio prático de Quality Assurance (QA), com foco na validação da funcionalidade de autenticação de usuários em uma loja virtual.
+Este repositório apresenta a documentação desenvolvida durante um desafio prático de Quality Assurance (QA) - DIO, com foco na validação da funcionalidade de autenticação de usuários em uma loja virtual.
 
 ---
 
@@ -69,7 +69,7 @@ Foram definidos cenários para:
 
 ## 🛠️ Ferramentas Utilizadas
 
-* draw.io / Miro
+* Miro
 * Gherkin
 * Git e GitHub
 
