@@ -27,6 +27,20 @@ Os documentos estão organizados na pasta `docs/`:
 
 ---
 
+## 🔍 Visualização dos documentos 
+
+- [🖼️ Ver Fluxo de Trabalho](assets/fluxo-trabalho.jpeg)
+- [🖼️ Ver User Stories](assets/user-stories.jpeg)
+- [🖼️ Ver Testes](assets/testes.jpeg)
+
+---
+## 📥 Download dos Documentos
+
+- 📄 [Fluxo de Trabalho](https://github.com/vitoriaotsuka/dio-qa-lab/raw/main/docs/fluxo-trabalho.pdf)
+- 📄 [User Stories](https://github.com/vitoriaotsuka/dio-qa-lab/raw/main/docs/user-stories.pdf)
+- 📄 [Teste](https://github.com/vitoriaotsuka/dio-qa-lab/raw/main/docs/testes.pdf)
+---
+
 ## 🔐 Escopo do Projeto
 
 A funcionalidade analisada neste projeto é:
